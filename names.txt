@@ -1,3 +1,4 @@
 chinmay raj
 shashank m
-this is an example for merge conflict
+
+this is an example of merge conflict
